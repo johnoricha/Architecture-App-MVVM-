@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "732cf2d250766a08db4e3693764aa2de",
+    "entities": [
+      {
+        "tableName": "note_table",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `title` TEXT, `description` TEXT, `priority` INTEGER NOT NULL)",
+        "note1": {
+          "id": 1,
+          "title": "title",
+          "description": "desription"
+        },
+        "note2": {
+          "id": 2,
+          "title": "title2",
+          "description": "description2"
+        }
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '732cf2d250766a08db4e3693764aa2de')"
+    ]
+  }
+}

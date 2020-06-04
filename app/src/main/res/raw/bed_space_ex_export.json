@@ -1,0 +1,106 @@
+{
+  "offers" : {
+    "-M7U4fuugi9jObav9lhh" : {
+      "hall" : "Mellanby",
+      "id" : "-M7U4fuugi9jObav9lhh",
+      "ownerName" : "John Oricha",
+      "phoneNumber" : "08165215761",
+      "price" : "85000",
+      "roomNumber" : "C4"
+    },
+    "-M7U50FQQIqgjQ98Od7o" : {
+      "hall" : "Mellanby",
+      "id" : "-M7U50FQQIqgjQ98Od7o",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "07087506133",
+      "price" : "79999",
+      "roomNumber" : "B7"
+    },
+    "-M7U8HOK9OPvBSu4ptvz" : {
+      "hall" : "Queen Elizabeth II",
+      "id" : "-M7U8HOK9OPvBSu4ptvz",
+      "ownerName" : "Promise Dennis",
+      "phoneNumber" : "08101128804",
+      "price" : "50000",
+      "roomNumber" : "A68"
+    },
+    "-M7UB5mnBkNnDrEnYU2P" : {
+      "hall" : "Queen Elizabeth II",
+      "id" : "-M7UB5mnBkNnDrEnYU2P",
+      "ownerName" : "Obinna Obasi",
+      "phoneNumber" : "9099982821",
+      "price" : "100000",
+      "roomNumber" : "D19"
+    },
+    "-M7V-GVO6oOh1xkEtggf" : {
+      "hall" : "Tedder",
+      "id" : "-M7V-GVO6oOh1xkEtggf",
+      "ownerName" : "Emmanuel",
+      "phoneNumber" : "08885555",
+      "price" : "80000",
+      "roomNumber" : "D19"
+    },
+    "-M7V-zz3-TdCgctFZGg7" : {
+      "hall" : "Queen Idia",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "08101128804",
+      "price" : "100000",
+      "roomNumber" : "C50"
+    },
+    "-M7i0khuBWP1c1wF-O98" : {
+      "hall" : "Queen Idia",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "08101128804",
+      "price" : "100000",
+      "roomNumber" : "C50"
+    },
+    "-M7i36RkJdeOB2AVXcMR" : {
+      "hall" : "Queen Idia",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "08101128804",
+      "price" : "100000",
+      "roomNumber" : "C50"
+    },
+    "-M7i9Ex6lhv30kpgeI5F" : {
+      "hall" : "Queen Idia",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "08101128804",
+      "price" : "100000",
+      "roomNumber" : "C50"
+    },
+    "-M7iTwozPyK1Uz_pC05D" : {
+      "hall" : "Queen Idia",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "08101128804",
+      "price" : "100000",
+      "roomNumber" : "C50"
+    },
+    "-M7iUoPMw04Kt8geW6b-" : {
+      "hall" : "Queen Idia",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "08101128804",
+      "price" : "100000",
+      "roomNumber" : "C50"
+    },
+    "-M7iVkMp-1VXYWhz-l5X" : {
+      "hall" : "Queen Idia",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "08101128804",
+      "price" : "100000",
+      "roomNumber" : "C50"
+    },
+    "-M7iW3IXCzjK2g8tdFEj" : {
+      "hall" : "Queen Idia",
+      "ownerName" : "Felix Samuel",
+      "phoneNumber" : "08101128804",
+      "price" : "100000",
+      "roomNumber" : "C50"
+    }
+  },
+  "sellers" : {
+    "y0ai4hDWEZc2ZF4XoYhG3p9QhQR2" : {
+      "email" : "johnoricha@gmail.com",
+      "name" : "John Oricha"
+    }
+  }
+}
